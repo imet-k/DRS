@@ -1,0 +1,17 @@
+﻿Supplementary Table 3. Differential expression that direct RNA sequencing couldn’t detect because the dispersion across samples.,,,,,,
+Gene,log2Fold Change,Bile1,Bile2,LB1,LB2,Function
+VP1741,-2.2,12.59,13.92,11.09,11.29,sodium/alanine symporter
+,-1.7,7.51,8.59,6.56,6.45,
+VP1890,-2.7,11.51,13.62,9.89,10.52,virulence-associated protein VacB/RNase R
+,-1.6,6.24,7.74,5.48,5.75,
+VP2385,-2.3,11.39,8.79,8.19,8.42,glycerol uptake facilitator protein GlpF
+,-2,6.29,4.36,4.09,3.74,
+VPA0195,-2.6,8.25,11.66,8.31,8.14,NupC family protein
+,-2.6,3.69,6.46,3.45,3.64,
+VPA0459,-2.2,10.46,8.79,8.02,7.3,collagenase
+,-2.5,5.01,4.12,3.33,2.3,
+VP0359,-2,16.57,14.98,13.79,14.15,glucosamine--fructose-6-phosphate aminotransferase
+,-1.6,10.41,9.08,8.03,8.54,
+VPA0571,2,9.11,8.48,11.12,10.42,hypothetical protein VPA0571
+,1.7,4.87,4.12,6.18,5.75,
+VPA1323,-2.9,11.45,12.8,7.87,10.13,hypothetical protein VPA1323

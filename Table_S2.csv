@@ -1,0 +1,8 @@
+﻿Supplementary Table 2. Direct RNA sequencing mapping statistics,,,,,
+,,Mapped Reads,,Unmapped Reads,
+Sample,Mapping rate (%),Median length (nt),Quality mean ,Median length (nt),Quality mean
+Bile1,75.1,815,10.4,150,7.1
+Bile2,85.2,845,10.3,342,7.7
+LB1,80.3,831,10,276,7.7
+LB2,82.4,815,10.2,345,7.7
+Average,80.8,827,10.2,278,7.5
