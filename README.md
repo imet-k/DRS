@@ -1,5 +1,5 @@
 # DRS
-Supplementary Figure 1. The correlation between unmapped read length and mapping rate. The shorter the unmapped reads the lower the mapping rate."\n" 
+#Supplementary Figure 1. The correlation between unmapped read length and mapping rate. The shorter the unmapped reads the lower the mapping rate."\n" 
 Supplementary Fig. 2. Percentage of reads overlap with the gene body. Read overlaps with the gene were estimated and percentages were calculated.\n 
 Supplementary Figure 3. Coverage over the gene body. Each gene was divided to 100 proportions and read coverage was calculated for each one of them. Average was calculated for all genes and illustrated in the figure.\n 
 Supplementary Figure 4. Correlation of counts between direct RNA sequencing and Illumina data. (a) correlation matrix for very short genes (< 100 bp), (b) correlation matrix for short genes between 100-500 bp, (c) correlation matrix for genes between 500-1000 bp, (d) correlation matrix for long genes between >1000 bp.\n 
